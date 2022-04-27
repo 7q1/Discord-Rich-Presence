@@ -1,6 +1,9 @@
 import config
 from config import *
-from pypresence import Presence as pre
+try:
+    from pypresence import Presence as pre
+except:
+    os.system("pip install pypresence")
 from colorama import *
 import time
 
