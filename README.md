@@ -12,6 +12,6 @@ Python Script to modify your rich presence in Discord.
 
 2 - Make A new Application and copy its Id.
 
-3 - Put application id in [config.py](https://github.com/7q1/Discord-Rich-Presence/blob/main/config.py) file, and all others info.
+3 - Copy Application Id and put it in [config.py](https://github.com/7q1/Discord-Rich-Presence/blob/main/config.py) file, and all others info.
 
 4 - run [rich.py](https://github.com/7q1/Discord-Rich-Presence/blob/main/rich.py)
