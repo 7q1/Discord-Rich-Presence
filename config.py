@@ -4,7 +4,7 @@
 
 '''
 
-appId = "968820014801100823" # Input your Application ID here
+appId = "applicationId" # Input your Application ID here
 
 details     = ""	# Details.
 state       = ""	# State.
