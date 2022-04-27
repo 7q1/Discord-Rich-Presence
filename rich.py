@@ -1,11 +1,18 @@
+import os
 import config
 from config import *
 try:
-    from pypresence import Presence as pre
+    import pypresence
 except:
     os.system("pip install pypresence")
+try:
+    import colorama
+except:
+    os.system("pip install colorama")
+from pypresence import Presence as pre
 from colorama import *
 import time
+os.system("cls")
 
 BA = ("""
 
