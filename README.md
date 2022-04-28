@@ -1,6 +1,6 @@
 # Discord-Rich-Presence
 
-Python Script to modify your rich presence in Discord.
+Python Script to modify your rich presence in Discord .
 
 ![Desktop Screenshot 2022 04 27 - 19 37 11 07](https://user-images.githubusercontent.com/104280578/165573459-7029bd77-db07-4b72-85b8-b29ae97319c4.png)
 
