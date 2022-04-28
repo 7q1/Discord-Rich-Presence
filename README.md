@@ -21,7 +21,7 @@ Python Script to modify your rich presence in Discord.
  <a href="https://www.instagram.com/thrudespair/" target="_blank">
    <img class="img" style="height: 40px; width:50px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"> </img>
   </a>
-  
+  <br>
   <a href="https://discord.com/users/913666849324007476" target="_blank">
    <img class="img" style="height: 50px; width:60px;posotion:absolute;" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="Discord"> </img>
   </a>
