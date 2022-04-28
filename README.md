@@ -24,7 +24,7 @@ Python Script to modify your rich presence in Discord.
 
 
   <a href="https://discord.com/users/913666849324007476" target="_blank">
-   <img class="img" style="height: 0px; width:40px;" src="https://github.com/diamkil/socials/blob/main/public/img/discord.png" alt="Discord"> </img>
+   <img class="img" style="height: 0px; width:45px;" src="https://github.com/diamkil/socials/blob/main/public/img/discord.png" alt="Discord"> </img>
   </a>
 
 <h2>Language:</h2>
