@@ -23,7 +23,7 @@ Python Script to modify your rich presence in Discord.
   </a>
   
   <a href="https://www.instagram.com/thrudespair/" target="_blank">
-   <img class="img" style="height: 40px; width:50px;" src="![icons8-discord-150](https://user-images.githubusercontent.com/104280578/165656636-fb820637-d125-475e-970b-1688253516c5.png)" alt="instagram"> </img>
+   <img class="img" style="height: 40px; width:50px;" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" alt="instagram"> </img>
   </a>
 
 <h2>Language:</h2>
