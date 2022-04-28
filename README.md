@@ -5,7 +5,7 @@ Python Script to modify your rich presence in Discord .
 ![Desktop Screenshot 2022 04 27 - 19 37 11 07](https://user-images.githubusercontent.com/104280578/165573459-7029bd77-db07-4b72-85b8-b29ae97319c4.png)
 
 ![unknown](https://user-images.githubusercontent.com/104280578/165574763-e9133606-f697-4378-8ae1-19482c43b332.png)
-
+---
 
 ## How To Use?: 
 1 - Go to [Discord Developer Application](https://discord.com/developers/applications)
@@ -15,6 +15,8 @@ Python Script to modify your rich presence in Discord .
 3 - Copy Application Id and put it in [config.py](https://github.com/7q1/Discord-Rich-Presence/blob/main/config.py) file, and all others info.
 
 4 - Run [rich.py](https://github.com/7q1/Discord-Rich-Presence/blob/main/rich.py)
+
+---
 
 ## Socials:
 
